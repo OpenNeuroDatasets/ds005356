@@ -1,8 +1,9 @@
 {
-    "Name": "ProbSelectionTask",
+    "Name": "MEG: Major Depression & Probabilistic Learning Task",
     "BIDSVersion": "1.7.0",
     "DatasetType": "raw",
     "Authors": [
         "[Unspecified]"
-    ]
+    ],
+    "License": "CC0"
 }
